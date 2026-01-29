@@ -46,14 +46,7 @@ The project focuses on demonstrating **real-world application flow**, role-based
 
 ## Project Structure (Simplified)
 
-lib/
-├── screens/ # UI screens (user, admin, cleaner)
-├── models/ # Data models
-├── providers/ # State management
-├── main.dart # App entry point
-android/
-ios/
-assets/
+The project is structured to clearly separate UI, state management, and data models, making the codebase easier to maintain and scale.
 
 ---
 
